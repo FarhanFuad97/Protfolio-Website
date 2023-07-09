@@ -43,16 +43,14 @@ a{
     color: brown;
 }
 .header{
-    background-image:linear-gradient(rgb rgb(222, 12, 12));
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: antiquewhite;
 }
 .proinfo{
     display: flex;
     
 }
 .name{
-    color: aliceblue;
+    color:aqua;
     padding: 100px 150px;
     margin: 50px;
 }
